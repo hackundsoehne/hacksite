@@ -1,0 +1,61 @@
+team:
+  - name: Leander Kurscheidt
+    image: "team/leander.jpg"
+    url: "https://www.linkedin.com/in/leander-kurscheidt"
+    active: false
+  - name: Julian Brendl
+    image: "team/julian.jpg"
+    url: "https://www.linkedin.com/in/julianbrendl"
+    active: false
+  - name: Marcel Hollerbach
+    image: "team/marcel.jpg"
+    url: "https://github.com/marcelhollerbach"
+    active: false
+  - name: Adrian Lehmann
+    image: "team/adrian.jpg"
+    url: "https://www.linkedin.com/in/adrian-lehmann/"
+    active: false
+  - name: Max Franz
+    image: "team/max.jpg"
+    url: "https://www.linkedin.com/in/maximilian-franz-ab9299132/"
+    active: false
+  - name: Jan Allmenröder
+    image: "team/jan.jpg"
+    url: "https://www.linkedin.com/in/janallmenroeder/"
+    active: false
+  - name: David Krah
+    image: "team/david.jpg"
+    url: "#"
+    active: false
+  - name: Marina Hornung
+    image: "team/marina.jpg"
+    url: "https://www.linkedin.com/in/marina-hornung-63072714a/"
+    active: false
+  - name: Joachim Müssig
+    image: "team/joachim.jpg"
+    url: "#"
+    active: false
+  - name: Sandro Braun
+    image: "team/sandro.jpg"
+    url: "https://sandrobraun.de/"
+    active: false
+  - name: Karl Tichy
+    image: "team/karl.jpg"
+    url: "https://de.linkedin.com/in/tichy-karl-75476581"
+    active: false
+  - name: Mahdi Mirashrafi
+    image: "team/mahdi.jpg"
+    url: "https://www.linkedin.com/in/mahdi-mirashrafi"
+    active: false
+  - name: Daniel Wörner
+    image: "team/daniel.jpg"
+    url: "https://www.linkedin.com/in/daniel-w%C3%B6rner-8a6701180"
+    active: true
+  - name: Leo Garbe
+    image: "team/leo.jpg"
+    url: "http://skamps.eu/"
+    active: true
+  - name: Tim Weiland
+    image: "team/tim.jpg"
+    url: "https://www.linkedin.com/in/tim-weiland-0828a517b/"
+    active: true
