@@ -1,16 +1,15 @@
 ---
 translationKey: "events-2019-11-16"
 title: Android Bootcamp
-date: 2019-11-16
 image: "events/2019-11-16.png"
+date: 2019-11-16T10:00:00
+where: Jamit Labs GmbH, Haid-und-Neu-Str. 18, 76131 Karlsruhe
 ---
+## Über
 
-## About
-
-Together with the developers of JamitLabs we want to present you the basics of App Development with Android. Practice is the best teacher and that's exactly what this workshop is all about. Head of Android Thomas Hofmann teaches you the tools in small theory blocks and in the following practice blocks you get the chance to use them to develop a pre-defined app.
-
-We expect basic knowledge in Java and object-oriented programming. Please bring your own laptop and install Android Studio, an Android emulator, and git before the event. In a few cases we can also provide computers.
+Zusammen mit den Developern von JamitLabs wollen wir euch die Basics für App Development mit Android mitgeben. Bekanntlich lernt es sich in der Praxis am Besten und genau darauf geht dieser Workshop ein. Head of Android Thomas Hofmann gibt euch in kleinen Theorieblöcken die Werkzeuge und in darauf folgenden Praxisblöcken habt ihr direkt die Chance diese für die Entwicklung einer vorgegebenen App zu verwenden.
+Wir erwarten Grundkenntnisse in Java und objektorientierter Programmierung. Bitte bringt euren eigenen Laptop mit und installiert vor dem Event Android Studio, einen Android-Emulator, und git. In einigen wenigen Fällen können wir auch Rechner stellen.
 
 ## JamitLabs
 
-JamitLabs - these are innovative apps and dynamic web applications! As a highly specialized app-agency in the center of Karlsruhe, the demands of their customers are their highest priority.
+JamitLabs - das sind innovative Apps und dynamische Web Anwendungen! Als hochspezialisierte App-Agentur im Herzen von Karlsruhe stehen bei Jamit die Wünsche der Kunden im Mittelpunkt.
