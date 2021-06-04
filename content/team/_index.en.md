@@ -1,0 +1,4 @@
+---
+translationKey: "team"
+title: "Team"
+---
