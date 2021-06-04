@@ -1,50 +1,51 @@
 ---
 translationKey: "join"
-title: "Join us"
+title: "Mach mit"
 ---
 
 {{< spacing >}}
 {{< centered-lead >}}
-Do new technologies excite you? Why not share that excitement with others? Our goal at Hack & Söhne is to awaken the hacking spirit in people: We want to teach new technologies, inspire with new and unconventional ideas, and challenge people to use their creativity to build something great.
+Du findest neue Technologien spannend? Was hältst du davon, diese Begeisterung mit anderen zu teilen? Unser Ziel bei Hack & Söhne ist es, den Hacker-Spirit in den Leuten zu erwecken: Wir wollen neue Technologien beibringen, mit neuen und unkonventionellen Ideen inspirieren, und Leute dazu herausfordern, mit ihrer Kreativität etwas Cooles zu basteln.
 {{< /centered-lead >}}
 {{< /spacing >}}
 
 {{< spacing >}}
 {{< feature-row >}}
 {{< feature title="Teach" icon="bi-book" >}}
-We organize workshops to teach people about new and interesting technologies. Make no mistake - our workshops are not held in the stereotypical lecture format. We combine presentation sections with practical hands-on sections to ensure our participants actually learn something. If you're good at something and you want to share your knowledge, or if you simply need an opportunity to learn something new, why not host a workshop?
+Wir organisieren Workshops um Leuten neue und interessante Technologien beizubringen. Das findet bei uns aber nicht im stereotypischen Vorlesungsformat statt. Wir kombinieren Präsentationsabschnitte mit praktischen Hands-On-Abschnitten um zu garantieren, dass unsere Teilnehmer tatsächlich etwas lernen. Wenn du gut in etwas bist und dein Wissen gerne teilen würdest, oder du einfach eine Gelegenheit brauchst um etwas Neues zu lernen, warum nicht einen Workshop organisieren?
 {{< /feature >}}
 
 {{< feature title="Inspire" icon="bi-lightbulb" >}}
-We organize tech talks to share interesting ideas and incentives. Whether the topic is a new version of Java or a machine learning algorithm to teach robots to solve rubik's cubes - it's all about exciting ideas presented by interesting speakers. If you know somebody who's working on something cool and you've always wanted to learn more about their work, why not invite them to give a tech talk?
+Wir organisieren Tech-Talks um interessante Ideen und Impulse zu teilen. Ob das Thema eine neue Java-Version ist oder ein neuer Machine Learning Algorithmus, mit dem Roboter lernen, Rubik's Cubes zu lösen - es geht immer um spannende Ideen präsentiert von interessanten Speakern. Wenn du jemanden kennst, der an etwas Coolem arbeitet, und schon immer mal mehr über deren Arbeit erfahren wolltest: Warum lädst du die Person nicht ein, einen Tech-Talk zu halten?
 {{< /feature >}}
 
 {{< feature title="Challenge" icon="bi-award" >}}
-Our core business is organizing hackathons. A hackathon is an event where we challenge lots of participants to build something cool over the course of a weekend. This usually involves lots of energy drinks and little sleep - but it's always extremely fun and a great opportunity to learn something new and meet like-minded people. Anyone who has participated in a hackathon before can understand why we're so excited about organizing them!
+Unser Kerngeschäft ist das Organisieren von Hackathons. Ein Hackathon ist ein Event, bei dem wir viele Teilnehmer dazu herausfordern, innerhalb eines Wochenendes etwas Cooles zu basteln. Das geht in der Regel mit vielen Energy Drinks und wenig Schlaf einher - aber es macht immer extrem viel Spaß und es ist eine tolle Gelegenheit, etwas Neues zu lernen und gleichgesinnte Leute zu treffen. Jeder, der schon mal an einem Hackathon teilgenommen hat, kann verstehen, warum es uns so viel Spaß macht, sie zu organisieren!
 {{< /feature >}}
 {{< /feature-row >}}
 {{< /spacing >}}
 
 {{< centered-text >}}
-## What's in it for me?
+## Was hab ich davon?
 {{< /centered-text >}}
 
 {{< spacing >}}
 {{< image alt="Hack & Söhne Team" src="team.jpg" >}}
 {{< /spacing >}}
 
-Here are some reasons why joining us is a great idea:
+Hier sind ein paar Gründe, warum es eine gute Idee ist, bei uns mitzumachen:
 
-- **It's fun! Seriously**. You get to make new friends and do something that actively benefits the people who participate in our events.
+- **Es macht Spaß! Ernsthaft**. Man gewinnt neue Freunde und macht etwas, wovon die Teilnehmer stark profitieren.
 
-- **It's a great way to learn about new technologies**. Before we design workshops or tech talks, we need to do research on the topics. This is a great way for us to learn new things. If you've always been looking for a chance to learn Rust, why not do it now with the goal of hosting a Rust workshop? That way you will not only be more motivated, but you will also develop a deeper understanding of what you're trying to learn (teaching is ironically always the best way to learn).
+- **Es ist ein sehr guter Weg, neue Technologien zu lernen**. Bevor wir unsere Workshops und Tech-Talks entwerfen, müssen wir Nachforschung über die zugrundeliegenden Technologien und Tools betreiben. Das ist für uns immer eine super Möglichkeit, neue Dinge zu lernen. Wenn du schon immer mal nach einer Gelegenheit gesucht hast, Rust zu lernen, warum machst du es nicht jetzt, mit dem Ziel, einen Rust-Workshop zu veranstalten? Dadurch gewinnst du nicht nur Motivation, sondern auch ein tieferes Verständnis für das Thema, das du lernen möchtest (anderen Leuten etwas beizubringen ist ironischerweise immer der beste Weg, etwas selbst zu lernen.)
 
-- **Networking.** Organizing events involves forming connections with people - the sponsors, the jury, the speakers, the participants. This is a great way to increase your network, and the author of this page speaks from experience when he says that these connections have opened up some new opportunities for him in the past.
+- **Netzwerken**. Events zu organisieren beinhaltet immer, Verbindungen mit Menschen aufzubauen - den Sponsoren, der Jury, den Speakern, den Teilnehmern. Das ist eine sehr gute Möglichkeit, dein Netzwerk zu vergrößern, und der Autor dieser Seite spricht aus Erfahrung, wenn er sagt, dass diese Connections für ihn in der Vergangenheit schon einige Türen geöffnet haben.
 
-- **It's a great way to improve your soft skills**. Time management, teamwork, project management and networking are all a natural part of what we do. But there will also be plenty of opportunities to improve your speaking skills - you could even host your own workshop. Keep in mind these are only opportunities - we don't force anyone to do anything they don't want to do.
-Last but not least, it's a great addition to your CV.
+- **Es ist eine gute Möglichkeit, deine Soft Skills zu verbessern**. Zeitmanagement, Teamwork, Projektmanagement und Netzwerken sind ein natürlicher Bestandteil von dem, was wir tun. Aber es gibt auch viele Gelegenheiten, deine Skills im öffentlichen Reden zu verbessern - du könntest sogar deinen eigenen Workshop veranstalten. Das sind aber nur Möglichkeiten - wir zwingen niemanden etwas zu tun, was er nicht möchte.
 
-Still not convinced? Maybe some cool videos will change that:
+- Zu guter Letzt ist es eine **tolle Erweiterung von deinem Lebenslauf**.
+
+Immer noch nicht überzeugt? Vielleicht ändern ein paar coole Videos deine Meinung:
 
 {{< spacing >}}
 {{< centered-text >}}
@@ -64,12 +65,12 @@ Still not convinced? Maybe some cool videos will change that:
 
 {{< spacing >}}
 {{< centered-text >}}
-## I'm interested!
+## Klingt gut!
 {{< /centered-text >}}
 {{< /spacing >}}
 
 {{< centered-lead >}}
-Awesome! We're always looking for new members. Send a mail to info@hackundsoehne.de to get started. Or just join one of our meetings: Currently we meet every Wednesday at 7:15PM CEST on [Google Meet](https://meet.google.com/qec-mtvr-kow). We don't bite, I promise!
+Nice! Wir sind immer auf der Suche nach neuen Mitgliedern. Schick einfach eine Mail an info@hackundsoehne.de . Oder komm einfach zu einem unserer Meetings: Momentan treffen wir uns jeden Mittwoch um 19:15 Karlsruher Zeit (CEST) auf [Google Meet](https://meet.google.com/qec-mtvr-kow). Wir beißen nicht, versprochen!
 {{< /centered-lead >}}
 
-{{< call-to-action label="Join meeting" href="https://meet.google.com/qec-mtvr-kow" >}}
+{{< call-to-action label="Meeting beitreten" href="https://meet.google.com/qec-mtvr-kow" >}}

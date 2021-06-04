@@ -42,7 +42,8 @@ Here are some reasons why joining us is a great idea:
 - **Networking.** Organizing events involves forming connections with people - the sponsors, the jury, the speakers, the participants. This is a great way to increase your network, and the author of this page speaks from experience when he says that these connections have opened up some new opportunities for him in the past.
 
 - **It's a great way to improve your soft skills**. Time management, teamwork, project management and networking are all a natural part of what we do. But there will also be plenty of opportunities to improve your speaking skills - you could even host your own workshop. Keep in mind these are only opportunities - we don't force anyone to do anything they don't want to do.
-Last but not least, it's a great addition to your CV.
+
+- Last but not least, **it's a great addition to your CV**.
 
 Still not convinced? Maybe some cool videos will change that:
 
