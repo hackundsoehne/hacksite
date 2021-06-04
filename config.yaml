@@ -1,0 +1,137 @@
+baseURL: "https://hackundsoehne.de/"
+title: "Hack & Söhne"
+theme: "hackurat"
+
+params:
+  social:
+    facebook_url: &fb_url "https://www.facebook.com/hackundsoehne/"
+    twitter_url: &tw_url "https://twitter.com/hackundsoehne"
+    github_url: &gh_url "https://github.com/hackundsoehne"
+    instagram_url: &ig_url "https://www.instagram.com/hackundsoehne/"
+    youtube_url: &yt_url "https://www.youtube.com/channel/UCYchla3LyKoOQSdnEIl4oqQ"
+    linkedin_url: &li_url "https://www.linkedin.com/company/hack-&-s%C3%B6hne/"
+    talkit_url: "http://talkit.eu/"
+    meeting_url: "https://meet.google.com/qec-mtvr-kow"
+    contact_email: "info@hackundsoehne.de"
+    business_email: "b2b@hackundsoehne.de"
+
+  address:
+    line1: "talKIT - Das Technologieforum e.V."
+    line2: "Postfach 111 462"
+    line3: "76064 Karlsruhe, Germany"
+
+  headquaters:
+    latitude: 0
+    longitude: 0
+  
+  header:
+    logo:
+      url: "/"
+      alt: "Hack & Söhne"
+      src: "/logos/logo_white.png"
+      height: 60
+  
+  footer:
+    organisation: "Hack & Söhne"
+    slogan: "Get involved"
+
+  social_menu:
+    - icon: "facebook"
+      url: *fb_url
+    - icon: "twitter"
+      url: *tw_url
+    - icon: "github"
+      url: *gh_url
+    - icon: "instagram"
+      url: *ig_url
+    - icon: "youtube"
+      url: *yt_url
+    - icon: "linkedin"
+      url: *li_url
+
+privacy:
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+defaultContentLanguage: de
+languages:
+  de:
+    weight: 1
+    languageCode: "de"
+    menu:
+      header:
+        - name: "Startseite"
+          url: "/"
+          weight: 1
+        - name: "Events"
+          url: "/events/"
+          weight: 2
+        - name: "Team"
+          url: "/team/"
+          weight: 3
+        - name: "Mitmachen"
+          url: "/join/"
+          weight: 4
+        - name: "Dienste"
+          url: "/services/"
+          weight: 5
+        - name: "Kontakt"
+          url: "/contact/"
+          weight: 6
+      footer:
+        - name: "Über uns"
+          url: "/"
+          weight: 1
+        - name: "Talkit"
+          url: "http://talkit.eu/"
+          weight: 2
+        - name: "Kontact"
+          url: "/contact/"
+          weight: 3
+        - name: "Impressum"
+          url: "/imprint/"
+          weight: 4
+        - name: "Datenschutz"
+          url: "/dataprivacy/"
+          weight: 5
+
+  en:
+    weight: 2
+    languageCode: "en"
+    menu:
+      header:
+        - name: "Home"
+          url: "/"
+          weight: 1
+        - name: "Events"
+          url: "/events/"
+          weight: 2
+        - name: "Team"
+          url: "/team/"
+          weight: 3
+        - name: "Join us"
+          url: "/join/"
+          weight: 4
+        - name: "Services"
+          url: "/services/"
+          weight: 5
+        - name: "Contact"
+          url: "/contact/"
+          weight: 6
+      footer:
+        - name: "About"
+          url: "/"
+          weight: 1
+        - name: "Talkit"
+          url: "http://talkit.eu/"
+          weight: 2
+        - name: "Contact"
+          url: "/contact/"
+          weight: 3
+        - name: "Imprint"
+          url: "/imprint/"
+          weight: 4
+        - name: "Dataprivacy"
+          url: "/dataprivacy/"
+          weight: 5
