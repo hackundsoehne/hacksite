@@ -9,7 +9,7 @@ logo_topics: ["Hackathons", "Bootcamps", "Tech-Talks"]
 {{< spacing >}}
 {{< spacing >}}
 {{< definition word="Hacking" phonetic="hak" kind="verb" >}}
-A subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes.
+Tüftler im Kontext einer verspielten selbstbezüglichen Hingabe im Umgang mit Technik und einem besonderen Sinn für Kreativität und Originalität. [...] Ein Hacker ist jemand, der versucht einen Weg zu finden, wie man mit einer Kaffeemaschine Toast zubereiten kann.
 {{< /definition >}}
 {{< /spacing >}}
 {{< /spacing >}}
@@ -19,11 +19,11 @@ A subculture of individuals who enjoy the intellectual challenge of creatively o
 {{< container background="bg-bones" >}}
 {{< spacing >}}
 {{< presentation alt="Hack & Söhne Team" src="group.jpg" >}}
-### Who we are?
+### Wer sind wir?
 
-We're a German student-run nonprofit organisation focused all around coding and hacking. We try to bring a bit of silicon valley to the german computer-science and start-up community by disrupting the status quo. We do this by organising hackathons, coding boot camps and other similar events.
+Wir sind eine deutsche, von Studenten geführte Organisation, die fokussiert ist auf alles was mit Coding und Hacking zu tun hat. Wir organisieren dafür Hackathons, Coding-Bootcamps und andere ähnliche Events.
 
-Our team consists of students from a variety of backgrounds: Computer Science, Electrical Engineering and Information Technologies, Economics, Business and more.
+Unser Team besteht aus vielen Studenten aus verschiedenen Fachrichtungen: Informatik, Elektro- und Informationstechnik, Wirtschaft und mehr.
 {{< /definition >}}
 {{< /spacing >}}
 {{< /container >}}
@@ -33,20 +33,20 @@ Our team consists of students from a variety of backgrounds: Computer Science, E
 {{< spacing >}}
 {{< spacing >}}
 {{< centered-lead >}}
-### What we do
+### Was wir machen
 
-We have a passion for technology and work hard to make the latest advancements accessible through hackathons, tech-talks, bootcamps and more.
+Wir haben eine Vorliebe für Technologie und arbeiten stark daran die neuesten Entwicklungen durch Hackathons, Tech Talks und Bootcamps zugänglich zu machen.
 {{< /centered-lead >}}
 {{< /spacing >}}
 
 {{< feature-row >}}
-{{< feature title="We organize stuff" icon="bi-calendar-event" >}}
-We organize Hackathons, Bootcamps and Tech Talks to bring people together, give them a chance to meet new companies, and of course show them a ton of new stuff. From time to time we organize hackathons to find out who is the best hacker in town. 
+{{< feature title="Wir organisieren" icon="bi-calendar-event" >}}
+Wir organisieren Hackathons, Bootcamps und Tech Talks um Leute zusammen zu bringen, ihnen eine Chance zu geben Firmen kennen zu lernen und natürlich ihnen eine Menge von neuen Sachen zu zeigen. Von Zeit zu Zeit organisieren wir Hackathons, um den besten Hacker in der Stadt zu finden.
 {{< /feature >}}
 
-{{< feature title="We help out" icon="bi-bullseye" >}}
-**You're a company and want to reach students?**
-No problem! We're a reliable partner, at your side, ready to work together to organize your event. We make sure the event is well run, the room is filled and that nobody goes home with an empty stomach.
+{{< feature title="Wir helfen" icon="bi-bullseye" >}}
+**Du bist eine Firma und möchtest Studenten erreichen?**
+Kein Problem! Wir sind ein zuverlässiger Partner, an ihrer Seite, bereit zusammenzuarbeiten, um Events zu planen. Wir versichern, dass das Event gut läuft, der Raum voll ist und niemand mit einem leeren Magen nach Hause geht.
 {{< /feature >}}
 {{< /feature-row >}}
 {{< /spacing >}}
