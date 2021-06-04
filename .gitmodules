@@ -1,0 +1,3 @@
+[submodule "themes/hackurat"]
+	path = themes/hackurat
+	url = https://github.com/hackundsoehne/hackurat.git
