@@ -1,6 +1,6 @@
 ---
 translationKey: "dataprivacy"
-title: Dataprivacy
+title: Datenschutz
 ---
 # Datenschutzerklärung
 

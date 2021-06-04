@@ -2,6 +2,11 @@
 translationKey: "dataprivacy"
 title: Dataprivacy
 ---
+
+**Please Note:**
+
+We apologize. The privacy statement are only available in German due to German law being difficult to translate. However, if you have any questions or concerns regarding our terms and conditions, please contact us.
+
 # Datenschutzerklärung
 
 Die nachfolgende Datenschutzerklärung gilt für die Nutzung unseres Online-Angebots www.hackundsoehne.de und www.opencodes.io (nachfolgend „Website“). Wir messen dem Datenschutz große Bedeutung bei. Die Erhebung und Verarbeitung Ihrer personenbezogenen Daten geschieht unter Beachtung der geltenden datenschutzrechtlichen Vorschriften, insbesondere der Datenschutzgrundverordnung (DSGVO). Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Diese Erklärung beschreibt, wie und zu welchem Zweck Ihre Daten erfasst und genutzt werden und welche Wahlmöglichkeiten Sie im Zusammenhang mit persönlichen Daten haben. Durch Ihre Verwendung dieser Website stimmen Sie der Erfassung, Nutzung und Übertragung Ihrer Daten gemäß dieser Datenschutzerklärung zu. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
