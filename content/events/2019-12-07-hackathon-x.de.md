@@ -7,4 +7,4 @@ where: Karl-Friedrich-Straße, 76133 Karlsruhe
 ---
 Für mehr Informationen hier klicken:
 
-[link](https://github.com/hackundsoehne/tooling-deepdive)
+[Link](https://hackathonx.de/)
