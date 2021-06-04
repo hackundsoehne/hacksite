@@ -1,6 +1,6 @@
 # Hacksite
 
-This is the source code of the [HUGO](https://gohugo.io/) based Hack & Söhne organisation website. The website is deployed from this repository via [netlify](https://www.netlify.com/).
+This is the source code of the [HUGO](https://gohugo.io/) based Hack & Söhne organisation website. The website is deployed from this repository via [netlify](https://www.netlify.com/). **Note** that changes are published live from the `main` branch.
 
 ## Development
 
@@ -11,7 +11,7 @@ This is the source code of the [HUGO](https://gohugo.io/) based Hack & Söhne or
 
 ## Theme
 
-This website uses the [Hackurat]() HUGO theme. It's managed via git submodules. To update the Hackurat theme submodule, run the following command and commit the resulting changes:
+This website uses the [Hackurat](https://github.com/hackundsoehne/hackurat) HUGO theme. It's managed via git submodules. To update the Hackurat theme submodule, run the following command and commit the resulting changes:
 
 ```sh
 git submodule update --remote --merge
