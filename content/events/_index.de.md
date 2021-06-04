@@ -1,0 +1,4 @@
+---
+translationKey: "events"
+title: "Events"
+---
