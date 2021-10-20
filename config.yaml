@@ -55,6 +55,7 @@ languages:
   de:
     weight: 1
     languageCode: "de"
+    languageName: "🇩🇪 Deutsch"
     footer:
       organisation: "Hack & Söhne"
       slogan: "Engagier dich"
@@ -98,6 +99,7 @@ languages:
   en:
     weight: 2
     languageCode: "en"
+    languageName: "🇺🇸 English"
     footer:
       organisation: "Hack & Söhne"
       slogan: "Get involved"
