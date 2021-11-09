@@ -1,7 +1,7 @@
 ---
 translationKey: "events-2021-06-25"
 title: "Hackathonx Vol. 2"
-image: "events/2021-06-25.png"
+image: "events/2021-06-25.jpg"
 where: "Online via gather.town"
 date: 2021-06-25T17:00:00+02:00
 publishdate: 2021-06-05T13:00:00+02:00
