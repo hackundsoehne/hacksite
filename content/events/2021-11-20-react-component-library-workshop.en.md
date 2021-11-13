@@ -14,6 +14,6 @@ During this workshop, we share the experience we've gained throughout the develo
 
 Over the course of the day, we will implement a selection of React components according to design specifications from **Figma** 🎨, visualize them in **Storybook**, and finally assemble them into a **small web app**.
 
-This workshop is in cooperation with the awesome folks at [workwise](https://www.workwise.io/), it will take place at their HQ in Karlsruhe and yes, there will be free pizza 😋🍕
+The workshop will take place from 12-17 o'clock in cooperation with the really great people from [workwise](https://www.workwise.io/) at their headquarters in Karlsruhe and yes, there will be free pizza 😋🍕
 
 Sounds cool? Nice! 👉 [Click here to register](https://forms.gle/TRiHaJKrv8AeTRLX9)

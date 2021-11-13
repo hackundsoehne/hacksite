@@ -14,6 +14,6 @@ In diesem Workshop teilen wir die Erfahrungen, die wir während der Entwicklung 
 
 Im Laufe des Tages werden wir eine Auswahl von React-Komponenten nach den Designvorgaben von **Figma** 🎨 implementieren, sie in **Storybook** visualisieren und schließlich zu einer kleinen **Web-App** zusammenbauen.
 
-Der Workshop findet in Kooperation mit den echt tollen Leuten von [workwise](https://www.workwise.io/) in deren Hauptquatier in Karlsruhe statt und ja, es wird kostenlose Pizza geben 😋🍕.
+Der Workshop findet von 12-17 Uhr in Kooperation mit den echt tollen Leuten von [workwise](https://www.workwise.io/) in deren Hauptquatier in Karlsruhe statt und ja, es wird kostenlose Pizza geben 😋🍕.
 
 Am besten meldest du dich direkt an 👉 [Hier gehts zur Anmeldung](https://forms.gle/TRiHaJKrv8AeTRLX9)
