@@ -10,10 +10,12 @@ draft: false
 
 Der Aufbau einer Webanwendung mit einer Komponentenbibliothek kann sich fast so anfühlen, als würde man **LEGOs** zusammensetzen. Aber wie wird eine Komponentenbibliothek aufgebaut?
 
-In diesem Workshop teilen wir die Erfahrungen, die wir während der Entwicklung unserer eigenen Komponentenbibliothek gesammelt haben - die **Herausforderungen**, die es zu meistern gilt, die **Entscheidungen**, die getroffen werden müssen, die **Tools** 🔨, die verwendet werden, und der Weg, der noch vor uns liegt.
+In diesem Workshop teilen wir die Erfahrungen, die wir während der Entwicklung unserer eigenen Komponentenbibliothek gesammelt haben - die **Herausforderungen**, die es zu meistern gilt, die **Entscheidungen**, die getroffen werden müssen, die **Tools**, die verwendet werden, und der Weg, der noch vor uns liegt.
 
-Im Laufe des Tages werden wir eine Auswahl von React-Komponenten nach den Designvorgaben von **Figma** 🎨 implementieren, sie in **Storybook** visualisieren und schließlich zu einer kleinen **Web-App** zusammenbauen.
+Im Laufe des Tages werden wir eine Auswahl von React-Komponenten nach den Designvorgaben von **Figma** implementieren, sie in **Storybook** visualisieren und schließlich zu einer kleinen **Web-App** zusammenbauen.
 
-Der Workshop findet von 12-17 Uhr in Kooperation mit den echt tollen Leuten von [workwise](https://www.workwise.io/) in deren Hauptquatier in Karlsruhe statt und ja, es wird kostenlose Pizza geben 😋🍕.
+Der Workshop findet von 12-17 Uhr in Kooperation mit den echt tollen Leuten von [workwise](https://www.workwise.io/) in deren Hauptquatier in Karlsruhe statt und ja, es wird kostenlose Pizza geben 😋🍕
+
+Bitte bringe einen eigenen Laptop, deinen 2G-Nachweis und deinen Personalausweis zum Überprüfen mit.
 
 Am besten meldest du dich direkt an 👉 [Hier gehts zur Anmeldung](https://forms.gle/TRiHaJKrv8AeTRLX9)
