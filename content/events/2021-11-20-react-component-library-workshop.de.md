@@ -18,4 +18,6 @@ Der Workshop findet von 12-17 Uhr in Kooperation mit den echt tollen Leuten von 
 
 Bitte bringe einen eigenen Laptop, deinen 2G-Nachweis und deinen Personalausweis zum Überprüfen mit.
 
-Am besten meldest du dich direkt an 👉 [Hier gehts zur Anmeldung](https://forms.gle/TRiHaJKrv8AeTRLX9)
+##### Follow up:
+
+Der Workshop war ein großer Erfolg. Vielen Dank an alle Teilnehmer fürs kommen! Bitte denkt daran unseren Social-Media Kanälen zu folgen, sodass ihr auch von unseren zukünftigen Events mitbekommt.

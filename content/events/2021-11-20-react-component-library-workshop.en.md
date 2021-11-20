@@ -19,3 +19,7 @@ The workshop will take place from 12-17 o'clock in cooperation with the really g
 Please bring your own laptop, your 2G-proof and your ID card for verification.
 
 Sounds cool? Nice! 👉 [Click here to register](https://forms.gle/TRiHaJKrv8AeTRLX9)
+
+##### Follow up:
+
+The workshop was a great success. Thanks to all participants for coming! Please remember to follow our social media channels to stay informed about our future events.
