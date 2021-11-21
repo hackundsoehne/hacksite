@@ -10,6 +10,7 @@ params:
     instagram_url: &ig_url "https://www.instagram.com/hackundsoehne/"
     youtube_url: &yt_url "https://www.youtube.com/channel/UCYchla3LyKoOQSdnEIl4oqQ"
     linkedin_url: &li_url "https://www.linkedin.com/company/hack-&-s%C3%B6hne/"
+    mailinglist_url: &ml_url "http://eepurl.com/cUkPyn"
     talkit_url: "http://talkit.eu/"
     meeting_url: "https://meet.google.com/qec-mtvr-kow"
     contact_email: "info@hackundsoehne.de"
@@ -44,6 +45,8 @@ params:
       url: *yt_url
     - icon: "linkedin"
       url: *li_url
+    - icon: "mail"
+      url: *ml_url
 
 privacy:
   youtube:
